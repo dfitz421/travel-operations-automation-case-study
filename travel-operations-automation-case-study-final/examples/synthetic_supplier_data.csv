@@ -1,0 +1,4 @@
+Supplier Name,Category,Location,Description,Website,Pricing Type,Price JPY,Status,Last Checked
+Example Hotel Tokyo,Accommodation,"Shinjuku, Tokyo",Boutique hotel near central Tokyo,https://example.com/hotel,Per Person,18000,Active,2026-09-15
+Sample Cycling Tour,Experience,"Setagaya, Tokyo",,https://example.com/cycling,Per Person,6500,Needs Review,
+Demo Transfer Service,Transportation,,Private airport transfer service,,Per Group,22000,Needs Review,
